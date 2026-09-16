@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gflab/gflab.r-universe.dev
 	branch = HEAD
+[submodule "clinstats"]
+	path = clinstats
+	url = https://github.com/gflab/clinstats
+	branch = main
+[submodule "gfplot"]
+	path = gfplot
+	url = https://github.com/gflab/gfplot
+	branch = master
